@@ -1,1 +1,1 @@
-#Mathematical Statistics course#
+*Mathematical Statistics course RTU*
